@@ -1,5 +1,5 @@
-#include <pthread.h> // Librería para el hilo
-#include <stdio.h>   // 
+#include <pthread.h>
+#include <stdio.h>
 
 int saldo;
 int cuenta;
